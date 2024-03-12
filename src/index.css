@@ -40,7 +40,7 @@
   border-radius: 100%;
 }
 
-@layer components {
+@layer base {
   body {
    @apply font-secondary text-lg leading-8 text-white;
   }
